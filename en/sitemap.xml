@@ -104,6 +104,16 @@
   </url><url>
     <loc>https://dennesshen.github.io/posts/java/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/java/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
@@ -120,18 +130,68 @@
   </url><url>
     <loc>https://dennesshen.github.io/posts/java/java/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/java/java/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/java/java/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/posts/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/posts/java/springcloud/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/java/springcloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/java/springcloud/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/posts/java/springboot_advanced/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/java/springboot_advanced/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/java/springboot_advanced/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/posts/java/springboot_basic/</loc>
     <lastmod>2022-12-04T20:25:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tw"
+                href="https://dennesshen.github.io/tw/posts/java/springboot_basic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dennesshen.github.io/posts/java/springboot_basic/"
+                />
   </url><url>
     <loc>https://dennesshen.github.io/notes/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
