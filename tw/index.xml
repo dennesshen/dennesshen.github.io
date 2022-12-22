@@ -6,12 +6,79 @@
     <description>Recent content on Christine&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Dec 2022 20:25:00 +0800</lastBuildDate><atom:link href="https://dennesshen.github.io/tw/index.xml" rel="self" type="application/rss+xml" /><item>
-      <title>My Java Skill Introduction</title>
-      <link>https://dennesshen.github.io/tw/posts/java/java/</link>
+    <lastBuildDate>Thu, 22 Dec 2022 20:25:00 +0800</lastBuildDate><atom:link href="https://dennesshen.github.io/tw/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>PSI 進銷存系統</title>
+      <link>https://dennesshen.github.io/tw/posts/project/psi/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/psi/</guid>
+      <description> 專案內容說明 : 建立Ｗeb互動進銷存系統。 專案時間 : 2021/10 - 2021/12 使用技術 : SpringBoot、BootStrap、MySql 使用工具 : Spring Tool Suite4 專案環境 : MacOs、Windows 補充說明 : 巨匠段老師課程最後實做專案，跟著老師一行一行代碼寫出來。 專案原始碼：https://github.com/dennesshen/SpringBoot-PSI-20211018 </description>
+    </item>
+    
+    <item>
+      <title>學校學生違規紀錄系統</title>
+      <link>https://dennesshen.github.io/tw/posts/project/schoolmanager/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/schoolmanager/</guid>
+      <description> 專案內容說明 : 母親是小學生教組長，需要紀錄學生違規行為，之前都是使用excel+巨集，操作介面簡陋難維護，幫她寫一個簡單系統來完成該工作。 使用技術 : SpringBoot、SpringBoot Security、BootStrap、MySql 使用工具 : Spring Tool Suite4 (sts) 專案環境 : OS - Linux、Windows 補充說明 : 根據前面 psi 以及 portfolio 的上課專案，自行模仿建立。 專案原始碼：https://github.com/dennesshen/SpringBoot-schoolManangeSystem </description>
+    </item>
+    
+    <item>
+      <title>金融portfolio系統</title>
+      <link>https://dennesshen.github.io/tw/posts/project/portfolio/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/portfolio/</guid>
+      <description> 專案內容說明 : 建立Ｗeb金融資訊看盤系統。 專案時間 : 2021/12 - 2022/3 使用技術 : SpringBoot(Restful API 前後端分離)、BootStrap、MySql、jquery 使用工具 : Spring Tool Suite4 專案環境 : MacOs、Windows 補充說明 : 巨匠段老師課程最後實做專案，跟著老師一行一行代碼寫出來。 專案原始碼：https://github.com/dennesshen/SpringBoot-Portfolio-20211018 </description>
+    </item>
+    
+    <item>
+      <title>金融帳務系統(工作專案)</title>
+      <link>https://dennesshen.github.io/tw/posts/project/accountsystem/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/accountsystem/</guid>
+      <description> 專案內容說明：工作專案，專案目的為更新公司原有並且客戶正在使用的軟體，舊程式為java 6 版本 ＋java Swing 技術，目前要將程式更新成前後端分離，前端採用vue.js 框架，後端為SpringBoot + SpringCloud 架構。
+使用相關技術：Spring Cloud 微服務部署, Spring boot, Jenkin自動部署 + Docker Container&amp;hellip;等等
+主要貢獻： 後端API 撰寫, 微服務架構撰寫, DB 新舊程式系統平衡, Spring技術分享
+系統架構圖： </description>
+    </item>
+    
+    <item>
+      <title>My Docker Skill Introduction</title>
+      <link>https://dennesshen.github.io/tw/posts/skill/docker/</link>
       <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
       
-      <guid>https://dennesshen.github.io/tw/posts/java/java/</guid>
+      <guid>https://dennesshen.github.io/tw/posts/skill/docker/</guid>
+      <description>Complete Post Coming Soon&amp;hellip; hello java
+hello java
+hello java
+hello java
+hello java
+hello java</description>
+    </item>
+    
+    <item>
+      <title>My Git Skill Introduction</title>
+      <link>https://dennesshen.github.io/tw/posts/skill/git/</link>
+      <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/skill/git/</guid>
+      <description>Complete Post Coming Soon&amp;hellip; hello java
+hello java
+hello java
+hello java
+hello java
+hello java</description>
+    </item>
+    
+    <item>
+      <title>My Java Skill Introduction</title>
+      <link>https://dennesshen.github.io/tw/posts/skill/java_basic/</link>
+      <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/skill/java_basic/</guid>
       <description>Complete Post Coming Soon&amp;hellip; hello java
 hello java
 hello java
@@ -22,10 +89,10 @@ hello java</description>
     
     <item>
       <title>What I can do in Spring Cloud for a Microservice System</title>
-      <link>https://dennesshen.github.io/tw/posts/java/springcloud/</link>
+      <link>https://dennesshen.github.io/tw/posts/skill/springcloud/</link>
       <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
       
-      <guid>https://dennesshen.github.io/tw/posts/java/springcloud/</guid>
+      <guid>https://dennesshen.github.io/tw/posts/skill/springcloud/</guid>
       <description>Complete Post Coming Soon&amp;hellip; hello java
 hello java
 hello java
@@ -36,10 +103,10 @@ hello java</description>
     
     <item>
       <title>What I can do with SpringBoot_Advanced Application</title>
-      <link>https://dennesshen.github.io/tw/posts/java/springboot_advanced/</link>
+      <link>https://dennesshen.github.io/tw/posts/skill/springboot_advanced/</link>
       <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
       
-      <guid>https://dennesshen.github.io/tw/posts/java/springboot_advanced/</guid>
+      <guid>https://dennesshen.github.io/tw/posts/skill/springboot_advanced/</guid>
       <description>Complete Post Coming Soon&amp;hellip; hello java
 hello java
 hello java
@@ -50,10 +117,10 @@ hello java</description>
     
     <item>
       <title>What I can do with SpringBoot_Basic Application</title>
-      <link>https://dennesshen.github.io/tw/posts/java/springboot_basic/</link>
+      <link>https://dennesshen.github.io/tw/posts/skill/springboot_basic/</link>
       <pubDate>Sun, 04 Dec 2022 20:25:00 +0800</pubDate>
       
-      <guid>https://dennesshen.github.io/tw/posts/java/springboot_basic/</guid>
+      <guid>https://dennesshen.github.io/tw/posts/skill/springboot_basic/</guid>
       <description>Complete Post Coming Soon&amp;hellip; hello java
 hello java
 hello java
