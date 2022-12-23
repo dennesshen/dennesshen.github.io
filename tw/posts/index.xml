@@ -16,6 +16,35 @@
     </item>
     
     <item>
+      <title>SpringBoot 技術分享</title>
+      <link>https://dennesshen.github.io/tw/posts/project/systextechshare/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/systextechshare/</guid>
+      <description>技術分享講綱 ： 技術分享講綱
+技術分享影片連結 ： https://www.youtube.com/playlist?list=PL-KaizupPCuNOhi3WEIdjiPWiY5v5uwcf
+技術分享原始碼 ： https://github.com/dennesshen/SystexSpringTechShare</description>
+    </item>
+    
+    <item>
+      <title>SpringCloud微服務架構練習</title>
+      <link>https://dennesshen.github.io/tw/posts/project/pythonselenium/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/pythonselenium/</guid>
+      <description> 7-11 交貨便自動取得編號 : https://github.com/dennesshen/7_11SeleniumProject 教育部線上防疫系統自動通報 : https://github.com/dennesshen/SchoolInfoSelenium 博奕網站自動擷取資訊分析 : https://github.com/dennesshen/GamblingSelenium </description>
+    </item>
+    
+    <item>
+      <title>SpringCloud微服務架構練習</title>
+      <link>https://dennesshen.github.io/tw/posts/project/udemyspringcloud/</link>
+      <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
+      
+      <guid>https://dennesshen.github.io/tw/posts/project/udemyspringcloud/</guid>
+      <description> 內容說明：練習使用SpringCloud技術建置微服務架構元件 使用相關技術：Spring Cloud 微服務部署, Spring boot 目前已建置元件：ApiGateway, Naming Server, ConfigServer, Resilience4j(斷路器相關), Feign Proxy(轉發代理) 尚未完全建置：Sleuth(路徑追蹤), SpringCloudStream + Rabbitmq </description>
+    </item>
+    
+    <item>
       <title>學校學生違規紀錄系統</title>
       <link>https://dennesshen.github.io/tw/posts/project/schoolmanager/</link>
       <pubDate>Thu, 22 Dec 2022 20:25:00 +0800</pubDate>
